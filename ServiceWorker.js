@@ -1,9 +1,9 @@
 const cacheName = "Block Dash Maze-Block Dash Maze-1.2.0";
 const contentToCache = [
-    "Build/tst.loader.js",
-    "Build/tst.framework.js.unityweb",
-    "Build/tst.data.unityweb",
-    "Build/tst.wasm.unityweb",
+    "Build/dash_game.loader.js",
+    "Build/dash_game.framework.js.unityweb",
+    "Build/dash_game.data.unityweb",
+    "Build/dash_game.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
